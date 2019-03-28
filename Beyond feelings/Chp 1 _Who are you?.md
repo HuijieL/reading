@@ -22,6 +22,33 @@ If you have been raised in the Middle East , you would stand much closer to peop
 To sum up, living in a different age of or culture would make you a different person. Even if you rebelled against the values of your time and place, they still would represented the context of your life— in other words, they still would influence your responses.
 
 ## The Influence of Ideas
+When one idea is expressed, closely  related ideas are simultaneously conveyed, logically and inescapably. In logic, this kinship is expressed by the term *sequitur*, latin words for “it follows”. (The converse is *non sequitur*”it does not follows”)
+
+Consider, for example, the idea that many teachers and parents express to young children as a way of encouraging them:”If you believe in yourself, you can succeed at anything.” from this it follows that *nothing else* but belief—neither talent nor hard — is necessary for success. The reason the two ideas are equivalent is that their meanings are inseparably linked.\* 
+If addition to conveying idea closely linked to it in meaning, an idea can *imply* other ideas. For example, the idea that there is no real difference between virtue and vice implies that people should not feel bound by common moral standards. Samuel Johnson had this implication in mind when he said:”But if he does really think that there is no distinction between virtue and vice, sir, when he leaves our houses let us count our spoons.”
+
+If we were fully aware of the closely linked  meanings and implications of the ideas we encounter, we could easily sort out the sound ones from the unsound, the wise from the foolish, and the helpful from the harmful. But we are seldom fully aware. In the course of time, our actions are shaped by those meanings and implications, whether we are aware of them or not.
+To appreciate the influence of ideas in people’s lives, consider the series of events set in motion by an idea that was popular in psychology more than a century ago and whose influence continues to this day— the idea that “intelligence is genetically determined and cannot be increased.”
+
+```
+`That idea leads researchers to devise tests that measure  intelligence. The most famous(badly flawed) test determined that the average mental age of white American adults was 13 and that, among immigrants, the average Russian’s mental age was 11.34; the average Italian’s , 11.01; the average pole’s, 10.74; and the average mental age of “ negroes,”10.41.
+
+Educators read the text results and thought, “Attempts to raise students’ intelligence are pointless, ” so they replaced academic curricula with vocational curricula and embraced a methodology  that taught students faces but not the process of judgement.
+
+Legislators read the test results and decided ”We’ve got to do something to keep intellectually inferior people from entering the country,” so they revised immigration laws to discriminate against southern and central Europeans.
+
+Eugenicists, who had long been concerned about the welfare of the human species, saw the tests as a grave warning. They thought, “If intelligence cannot be increased, we must find ways of encouraging reproduction among people pf higher intelligence and discouraging it among those of lower intelligence.”
+
+The eugenicists’s concern inspired  a variety of actions. Margaret Sanger’s Planned Parenthood urged the lower classes to practice contraception. Others succeeded in legalizing promoted forced sterilization, notably in Virginia. The U.S. Supreme Court upheld the Virginia law with Justice Oliver Wendell Holmes, Jr. declaring “Three generations of imbeciles are enough.” Over the next five decades 7,500 women, including “unwed mothers, prostitutes, petty criminals and children with disciplinary problems” were sterilized. In addition, by 1950 over 150,000 supposedly “defective” children, many relatively normal, were held against their will in institutions. They “endured isolation, overcrowding, forced labor, and physical abuse including lobotomy, electroshock, and surgical sterilization.”
+
+Meanwhile, business leaders read the results and decided, “We need polices to ensure that  workers leave their minds at the factory gate and perform their assigned tasks mindlessly.” So they enacted those polices. Decades later, when Edwards Deming proposed his “quality control” ideas for involving workers in decision making, business leaders remembered those test results and ignored Deming’s advice. (In contrast, the Japanese welcomed Deming’s ideas; as a result, several of their industries surged ahead of their American competition.)
+
+```
+`These are the most obvious effects of hereditarianism but they  are certainly not the only ones. Others include discrimination against racial and ethnic minorities and the often-paternalistic policies of government offered in response. ( Some historians also link hereditarianism to the genocide that occurred in Nazi Germany.)
+
+The innumerable ideas you have encountered will affect your beliefs and behavior in similar ways — sometimes slightly, at other times profoundly. And this can happen even if you have not consciously embraced the ideas.
+ 
+
 ## The Influence of Mass Culture
 ## The "Science" of Manipulation
 ## The Influence of Psychology
