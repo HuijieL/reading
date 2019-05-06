@@ -1,5 +1,6 @@
 # Log
 不采用这个方式 Log，决定采用issues进行log
+fixes #2
 
 | Date | Page |
 | :---:|:---:|
