@@ -1,3 +1,5 @@
+# Log
+
 # Part 1 The Context
 ## Chp 1 Who are you?
 ## Chp 2 What is Critical Thinking?
